@@ -9,3 +9,7 @@
 ### NPM-practice
 
 - Programinha de pergunta e resposta usando node
+
+### JS-practice
+
+- Aplicação que Cadastra, Atualiza, Pesquisa e Remove usuários
