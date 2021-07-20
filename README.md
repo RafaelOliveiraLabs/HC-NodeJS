@@ -12,4 +12,4 @@
 
 ### JS-practice
 
-- Aplicação que Cadastra, Atualiza, Pesquisa e Remove usuários
+- Aplicação que Cadastra, Atualiza, Pesquisa e Remove usuários utilizando JavaScript
