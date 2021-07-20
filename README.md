@@ -18,6 +18,13 @@
 
 - Programinha de pergunta e resposta usando node
 
+### sistema-de-agendamento (em andamento)
+
+- Sistema de agendamento
+- BD Postgres
+- Nodemon
+- Docker
+
 ### TS-practice
 
 - Usuário cadastra outros usuários e salva em um "BD" que será um arquivo
