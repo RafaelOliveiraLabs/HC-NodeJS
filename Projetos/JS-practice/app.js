@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
     fs.writeFile("users/" + params.id + ".txt", JSON.stringify(params), function (err) {
       if (err) throw err;
       console.log("Saved!");
-      resposta = "Usuário criado com sucesso";
+      resposta = "Usuário criado/atualizado com sucesso";
 
       res.statusCode = 200;
       res.setHeader("Content-Type", "text/plain");
