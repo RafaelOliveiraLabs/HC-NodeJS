@@ -1,5 +1,7 @@
 # Módulos NodeJS I e II - Hiring Coders 21
 
+**_ EM ANDAMENTO _**
+
 ## Conteúdos
 
 - [Conteúdo do módulo NodeJS I e II](https://github.com/rafamoliv/HC-NodeJS/tree/master/Conte%C3%BAdo%20do%20Curso)
